@@ -1,4 +1,4 @@
-# Weebzone-Heroku
+# KPS-Weebzone-Heroku
 
 ### Deploy on Heroku
 
